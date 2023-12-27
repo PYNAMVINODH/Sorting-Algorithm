@@ -69,7 +69,10 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-
+i)	#Selection Sort
+![image](https://github.com/PYNAMVINODH/Sorting-Algorithm/assets/145742678/580ef1e4-9451-4601-affd-ead9b87ae5c1)
+ii)	#Insertion Sort
+![image](https://github.com/PYNAMVINODH/Sorting-Algorithm/assets/145742678/03d254cb-ea0b-49de-bb06-2197bca13eff)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
